@@ -7,3 +7,5 @@ INI REST API...!!!!
   <a href="https://github.com/nurutomo"><img src="https://github.com/nurutomo.png?size=128" height="128" width="128" /></a>
 </p>
 
+• RendyZzx
+• Naurutomo
